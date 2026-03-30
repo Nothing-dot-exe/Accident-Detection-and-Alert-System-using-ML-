@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Large Video and Model files
+*.mp4
+*.avi
+*.mkv
+# Uncomment the line below if you don't want to upload the 20MB+ model files either
+*.pt
+
+# OS generated files
+.DS_Store
+Thumbs.db
